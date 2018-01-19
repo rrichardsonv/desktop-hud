@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Screwdriver",
+    "description": "An essential tool in any kit, screwdrivers remove and drive screws in a variety of materials and applications, including woodworking, metalworking, equipment and automotive repair, construction, electronics, and facility maintenance. Screwdrivers have a handle and a shank with a tip at the end.",
+    "price": 4.49,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/96577e00-0041-11e7-ba46-cf3d1b97651f.png"
+  },
+  {
+    "id": 2,
+    "name": "Socket Wrench",
+    "description": "These cylindrical tools are designed for tightening or loosening fasteners such as nuts and bolts. Sockets are available in a range of thicknesses and lengths for accessing recessed or obstructed fasteners, and are designed to turn a specific size of fastener.",
+    "price": 5.44,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/58b07490-7606-11e7-85d1-c72757b9c2b2.png"
+  },
+  {
+    "id": 3,
+    "name": "Adjustable Wrench",
+    "description": "Particularly useful for working on fasteners in odd sizes or shapes, these wrenches have a movable lower jaw that can be adjusted to fit around a range of differently sized fasteners. The jaws have a smooth surface to help avoid damage to the object being held or turned.",
+    "price": 13.76,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/77c7f610-2ab5-11e7-95fb-8d98f3e3ab79.png"
+  },
+  {
+    "id": 4,
+    "name": "Plier",
+    "description": "Similar to slip-joint pliers, tongue-and-groove pliers have a grooved pivot joint that allows the lower jaw to be adjusted to multiple positions to accommodate objects in a range of shapes and sizes.",
+    "price": 20.98,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/b207aa50-eca3-11e6-b17d-67b9be8cc8b0.png"
+  },
+  {
+    "id": 5,
+    "name": "Crimper",
+    "description": "Help make secure connections for electrical, audio/video, phone, and data wires and cables with these wire crimpers, dies, and kits. While some crimpers can be used with only one type of connector, other crimpers accept exchangeable dies that adapt the tool for crimping a range of connections.",
+    "price": 55.59,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/e6d04cc0-1bb9-11e7-9332-4d9244b2bf6a.png"
+  },
+  {
+    "id": 6,
+    "name": "Utility Knife",
+    "description": "Featuring razor-sharp blades, these small knives can cut through a range of construction and packaging materials, including drywall, cardboard, fiberglass insulation, linoleum flooring, roofing tiles, rope, and plastic sheeting.",
+    "price": 7.44,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/ed072a30-efce-11e6-99e0-fb250849814e.png"
+  },
+  {
+    "id": 7,
+    "name": "Handsaw",
+    "description": "Make rough, straight cuts in softer materials such as wood and plastic with these general-use handsaws. They cut on the push and pull stroke for fast, rough cut. Saws with teeth on both sides of the blade can be used for right- or left-side cuts.",
+    "price": 17.51,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/6dea1c40-ec8a-11e6-b17d-67b9be8cc8b0.png"
+  },
+  {
+    "id": 8,
+    "name": "Axe",
+    "description": "Split and chop large pieces of wood with these two-handed axes and mauls. Axes have a thinner, sharper blade for chopping wood across the grain. Mauls have a blunter, fatter blade for splitting wood along the grain.",
+    "price": 36.02,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/df5fdb20-ea60-11e6-9249-4f39d52a5f2f.png"
+  },
+  {
+    "id": 9,
+    "name": "Hammer",
+    "description": "One of the most popular styles of hammer, claw hammers have a flat striking face for driving nails at one end of the head and a split claw or a hatchet blade at the other. A curved claw is useful for pulling nails, and a straight claw can be used for prying and ripping boards and other construction materials.",
+    "price": 10.73,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/2b4d9a00-ec9f-11e6-b17d-67b9be8cc8b0.png"
+  },
+  {
+    "id": 10,
+    "name": "Clamp",
+    "description": "Use these versatile C-clamps, also known as G-clamps, to hold workpieces in a variety of materials and sizes. They have a fixed-width C-shaped frame with an adjustable screw that can be tightened or loosened to change the jaw size.",
+    "price": 9.55,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/40465c50-ec84-11e6-b17d-67b9be8cc8b0.png"
+  },
+  {
+    "id": 11,
+    "name": "Wedge",
+    "description": "Simple in design but diverse in application, wedges can be used to separate objects, split material, level equipment, or align surfaces. Also known as flange or set-up wedges, these tools have a tapered body with a thin edge that can fit into tight spaces for tasks such as removing flanges from pipes or splitting wood planks.",
+    "price": 15.16,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/cf1ef6d0-ec84-11e6-b17d-67b9be8cc8b0.png"
+  },
+  {
+    "id": 12,
+    "name": "Scraper",
+    "description": "Commonly referred to as strippers, these rigid scrapers are stiffer than flexible spreaders and provide better leverage for tasks like scraping off old wallpaper, dislodging flooring material, and removing raised bumps from surfaces to prepare them for painting and finishing.",
+    "price": 2.23,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/e0436be0-eca6-11e6-b17d-67b9be8cc8b0.png"
+  },
+  {
+    "id": 13,
+    "name": "Pry Bar",
+    "description": "Often known as crowbars, choose these pry bars for a range of everyday applications, including prying apart materials, pulling nails, lifting light objects, scraping material from a workpiece, removing upholstery from a vehicle, and even aligning holes on a workpiece prior to fastening.",
+    "price": 6.96,
+    "image": "https://gtwww.blob.core.windows.net:443/images/categories/ec7fde60-ec84-11e6-9249-4f39d52a5f2f.png"
+  }
+]
